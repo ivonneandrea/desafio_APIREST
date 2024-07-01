@@ -12,7 +12,7 @@ export const pool = new Pool({
 
 try {
   await pool.query("SELECT NOW()");
-  console.log("💻🔌 Database connected");
+  console.log("Database connected");
 } catch (error) {
   console.log(error);
 }

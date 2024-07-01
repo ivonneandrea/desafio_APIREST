@@ -3,7 +3,7 @@ import cors from "cors";
 import "dotenv/config";
 import { logger } from "logger-express";
 
-import joyasRoute from "./routes/joyas.route.js";
+import joyasRoute from "./routes/joyas.Route.js";
 
 const app = express();
 const PORT = process.env.PORT || 3000;

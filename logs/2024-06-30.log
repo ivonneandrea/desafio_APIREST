@@ -1,0 +1,64 @@
+
+Started GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:13:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 644 ms Request ID: [e0444bc7-ffdf-41f7-a3b0-520083abd1f6]
+
+Started GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:27:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 58 ms Request ID: [1c71b98a-0811-4ef2-8ef4-2a9d9704b65c]
+
+Started GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:27:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 50 ms Request ID: [e420fc98-2bde-43ff-bc96-a16d9e15a4a4]
+
+Started GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:27:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 56 ms Request ID: [75ea3934-bfa3-45f5-84eb-7b2df1f0c8d6]
+
+Started GET /joyas?limits=3&page=2&order_by=stock_ASC for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:28:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 70 ms Request ID: [74e2b969-f92d-413a-9331-b0c8a7abbe7f]
+
+Started GET /joyas?limits=3&page=2 for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:36:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 106 ms Request ID: [1a30a696-2919-4642-aff5-b2bd37fe7dd9]
+
+Started GET /joyas?limits=3 for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:36:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 43 ms Request ID: [e92975ed-ea56-4bc3-9525-cb902dd41510]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:36:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 52 ms Request ID: [35e62f1f-0532-430e-86fc-471be8c89e51]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:36:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [f5ad9f56-47bf-4029-acc2-c9e2d4b64609]
+
+Started GET / for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:36:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [d7071766-6391-41c5-86a5-d9e30bfa526d]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:36:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 53 ms Request ID: [531fe1e4-c797-472b-858c-e9ffb9f39eb5]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jun 29 2024 20:37:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 57 ms Request ID: [63e1a091-61b5-4a22-8157-373ed271c7ff]
+
+Started GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria%20=aros&metal=plata for :: ::ffff:127.0.0.1 at Sun Jun 30 2024 18:54:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 106 ms Request ID: [d673f37f-d3f0-4841-b0d4-fc4626e7d6d6]
+
+Started GET /joyas?limits=3&page=2&order_by=stock_ASC for :: ::ffff:127.0.0.1 at Sun Jun 30 2024 18:55:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 90 ms Request ID: [04b3d9da-d798-4ba1-9322-43d60e4b0f5d]
+
+Started GET /joyas?limits=3&page=2&order_by=stock_ASC for :: ::ffff:127.0.0.1 at Sun Jun 30 2024 19:03:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 131 ms Request ID: [08dd04e4-d29d-4043-87e8-4a639ee50d6b]
+
+Started GET /joyas?limits=3&page=2&order_by=stock_ASC for :: ::ffff:127.0.0.1 at Sun Jun 30 2024 19:03:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 47 ms Request ID: [6230183e-283c-4d50-aab9-d36e28b51504]
